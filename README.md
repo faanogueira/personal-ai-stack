@@ -85,8 +85,8 @@ O **Personal AI Stack** é uma aplicação de chat que combina a velocidade extr
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/faanogueira/personal-ai.git
-cd personal-ai
+git clone https://github.com/faanogueira/personal-ai-stack.git
+cd personal-ai-stack
 ```
 
 ### 2. Configurar variáveis de ambiente
