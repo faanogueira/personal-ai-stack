@@ -1,5 +1,5 @@
 # =============================================================================
-# Frontend — Local AI Stack
+# Frontend — Personal AI Stack
 # Interface de chat Streamlit conectada ao backend FastAPI + Groq
 # =============================================================================
 
@@ -9,7 +9,7 @@ import streamlit as st
 BACKEND_URL   = "http://localhost:8000"
 DEFAULT_MODEL = "llama-3.3-70b-versatile"
 
-st.set_page_config(page_title="Local AI Stack", page_icon="🤖", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Personal AI Stack", page_icon="🤖", layout="wide", initial_sidebar_state="expanded")
 
 st.markdown("""
 <style>
@@ -101,7 +101,7 @@ with st.sidebar:
 
     st.markdown('<p class="sidebar-section">System Prompt</p>', unsafe_allow_html=True)
     system_prompt = st.text_area("System Prompt",
-        value="Você é um assistente especializado em Ciência de Dados e análise financeira. Responda de forma clara e técnica.",
+        value="Você é um assistente pessoal e generalista. Responda de forma clara e técnica.",
         height=120, label_visibility="collapsed")
 
     st.markdown("<hr>", unsafe_allow_html=True)
@@ -128,7 +128,7 @@ with st.sidebar:
 
 st.markdown("""
 <div class="app-header">
-    <h1>🤖 Local AI Stack</h1>
+    <h1>🤖 Personal AI Stack</h1>
     <span>Groq · resposta em segundos</span>
 </div>
 """, unsafe_allow_html=True)
