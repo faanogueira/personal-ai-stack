@@ -8,9 +8,10 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.41-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-Cloud-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-8B1A1A?style=flat)
-
 ---
-
+<div align="center">
+  <img src="personal_ai_stack.png" width="100%" alt="Capa do Projeto">
+</div>
 ## 📋 Índice
 
 - [Visão Geral](#visão-geral)
