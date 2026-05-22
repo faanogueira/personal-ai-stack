@@ -1,19 +1,23 @@
 # 🤖 Personal AI Stack (Groq Edition)
 
-> Stack completa para chat com **LLMs de alta performance** via Groq API — respostas instantâneas, sem necessidade de GPU local.  
-> Backend em **FastAPI** · Frontend em **Streamlit** · Modelo padrão: **Llama 3.3 70B**
-
-
 <div align="center">
   <img src="personal_ai_stack.png" width="100%" alt="Capa do Projeto">
 </div>
+
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.41-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-Cloud-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-8B1A1A?style=flat)
 </div>
+
+--- 
+> Stack completa para chat com **LLMs de alta performance** via Groq API — respostas instantâneas, sem necessidade de GPU local.  
+> Backend em **FastAPI** · Frontend em **Streamlit** · Modelo padrão: **Llama 3.3 70B**
+
+
 ---
 ## 📋 Índice
 
